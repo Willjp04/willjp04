@@ -13,7 +13,7 @@
 
 ### Conecte-se comigo:
 
-[<img align="left" alt="Rubens Leme" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.linkedin.com/in/willian-sostenes-92b1a1185/)
+[<img align="left" alt="Willian Sostenes" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.linkedin.com/in/willian-sostenes-92b1a1185/)
 
 <br />
 <br />
